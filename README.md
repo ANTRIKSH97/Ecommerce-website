@@ -3,8 +3,8 @@
 ## Project Info
 
 **Project Name**: Shopease  
-**Author**: Shreyash Srivastava  
-**Email**: shreyash.jsx@gmail.com  
+**Author**: Antriksh dubey 
+**Email**: antrikshdubey15@gmail.com  
 **API Source**: [DummyJSON](https://dummyjson.com)
 
 Shopease is a modern e-commerce web application built with performance and user experience in mind. It leverages the DummyJSON API to showcase real-world product features, cart management, and dynamic UI elements.
